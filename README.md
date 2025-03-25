@@ -50,17 +50,17 @@
 <table>
   <tr>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo" />
+      <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo" />
       <img width="35" />
-      <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo" />
       <img width="35" />
-      <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo" />
+      <img src="https://skillicons.dev/icons?i=unity" height="45" alt="unity logo" />
       <img width="35" />
-      <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+      <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo" />
       <img width="35" />
-      <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo" />
+      <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dot-net logo" />
       <img width="35" />
-      <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
+      <img src="https://skillicons.dev/icons?i=discord" height="45" alt="discord logo" />
     </td>
     <td align="right">
       <a href="mailto:michal.wojcik0612@gmail.com" target="_blank">

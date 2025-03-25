@@ -51,15 +51,15 @@
   <tr>
     <td align="left">
       <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
-      <img width="12" />
+      <img width="15" />
       <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-      <img width="12" />
+      <img width="15" />
       <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo" />
-      <img width="12" />
+      <img width="15" />
       <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-      <img width="12" />
+      <img width="15" />
       <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
-      <img width="12" />
+      <img width="15" />
       <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
     </td>
     <td align="right">

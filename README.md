@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Michał and i'm from Poland!</h2>
+<h2 align="left">Hi! My name is Michał and i'm from Poland!</h2>
+###
+
+![](https://komarev.com/ghpvc/?username=Kixhap&color=green&style=for-the-badge)
 
 ###
 

@@ -1,7 +1,7 @@
 <h2 align="left">Hi! My name is Michał and i'm from Poland!</h2>
 
 ###
-
+![](https://hit.yhype.me/github/profile?account_id=69913222)
 ![](https://komarev.com/ghpvc/?username=Kixhap&color=green&style=for-the-badge)
 
 ###

@@ -60,7 +60,7 @@
       <img width="15" />
       <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
       <img width="15" />
-      <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
+      <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
     </td>
     <td align="right">
       <a href="mailto:michal.wojcik0612@gmail.com" target="_blank">

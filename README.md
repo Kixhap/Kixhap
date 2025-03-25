@@ -51,23 +51,23 @@
   <tr>
     <td align="left">
       <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo" />
-      <img width="20" />
+      <img width="35" />
       <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
-      <img width="20" />
+      <img width="35" />
       <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo" />
-      <img width="20" />
+      <img width="35" />
       <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
-      <img width="20" />
+      <img width="35" />
       <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo" />
-      <img width="20 />
+      <img width="35" />
       <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
     </td>
     <td align="right">
       <a href="mailto:michal.wojcik0612@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="gmail logo" />
       </a>
       <a href="https://www.linkedin.com/in/michał-wójcik-2981522a8" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo" />
       </a>
     </td>
   </tr>

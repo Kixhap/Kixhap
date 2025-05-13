@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Michał and i'm from Poland!</h2>
+<h2 align="left">Hi! My name is Michał</h2>
 
 ###
 ![](https://hit.yhype.me/github/profile?account_id=69913222)
